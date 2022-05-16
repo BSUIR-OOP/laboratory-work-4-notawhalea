@@ -1,0 +1,12 @@
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\bin\Debug\net6.0\DILibrary.deps.json
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\bin\Debug\net6.0\DILibrary.dll
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\bin\Debug\net6.0\DILibrary.pdb
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\obj\Debug\net6.0\DILibrary.csproj.AssemblyReference.cache
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\obj\Debug\net6.0\DILibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\obj\Debug\net6.0\DILibrary.AssemblyInfoInputs.cache
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\obj\Debug\net6.0\DILibrary.AssemblyInfo.cs
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\obj\Debug\net6.0\DILibrary.csproj.CoreCompileInputs.cache
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\obj\Debug\net6.0\DILibrary.dll
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\obj\Debug\net6.0\refint\DILibrary.dll
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\obj\Debug\net6.0\DILibrary.pdb
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба4\Laba4OOP\DILibrary\obj\Debug\net6.0\ref\DILibrary.dll
